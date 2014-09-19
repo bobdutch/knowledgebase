@@ -236,7 +236,7 @@ Contained once or many times by &lt;Listings&gt;, each time representing a Listi
   <tr>
     <td>Bedrooms</td>
     <td>Integer</td>
-    <td>The total number of bedrooms. For listings with no home on the property, such as a lot or land, this element should have the value of 0. When no information is available on Bathrooms, the value should be empty.</td>
+    <td>The total number of bedrooms. For listings with no home on the property, such as a lot or land, this element should have the value of 0. When no information is available on Bedrooms, the value should be empty.</td>
   </tr>
   <tr>
     <td>Bathrooms</td>
